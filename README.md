@@ -1,10 +1,10 @@
-#Data Structures Repository
-
-##The following repository consist of all the avaialable data strucutres with thier code and explaination in different folders kindly check it out!
+<h2>Data Structures Repository
+<hr>
+<h3>The following repository consist of all the avaialable data strucutres with thier code and explaination in different folders kindly check it out!
 
 <hr>
 
-<h2> Strcutre of the Repository
+<b> Strcutre of the Repository
 <br>
 <p> The repository is divided into the different folders, each folder consist of dirrent data structure algorithm + data strcuture concepts.
 
