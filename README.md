@@ -1,5 +1,5 @@
-<h2>Data Structures Repository
-<h3>The following repository consist of all the avaialable data strucutres with thier code and explaination in different folders kindly check it out!
+<h2>Data Structures Repository</h2>
+<h3>The following repository consist of all the avaialable data strucutres with thier code and explaination in different folders kindly check it out!</h3>
 
 <hr>
 
