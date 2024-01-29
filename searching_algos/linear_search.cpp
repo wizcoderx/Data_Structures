@@ -19,7 +19,7 @@ int main() {
 
     int arr[n]; //Declare an array of size n
     for(int i=0; i<n;i++) {
-        cin>>arr[i]>>" ";
+        cin>>arr[i];
     }
 
     int key;//the single value we have to search
